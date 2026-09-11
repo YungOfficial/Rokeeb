@@ -1,6 +1,6 @@
 // intro.js
-let name = "Your Name";
-let age = 20;
+let name = "Ismail Rokeeb";
+let age = 22;
 let favoriteLanguage = "JavaScript";
 
 console.log("Name:", name);
