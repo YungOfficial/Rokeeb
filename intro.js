@@ -1,5 +1,5 @@
 // intro.js
-let name = "Ismail Rokeeb";
+let name = "Rokeeb Abiodun";
 let age = 22;
 let favoriteLanguage = "JavaScript";
 
